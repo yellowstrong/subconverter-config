@@ -14,13 +14,13 @@ dns:
     - 114.114.114.114
 
 proxies:
-  - name: 🎵 解锁节点1 Other
+  - name: 🎵 解锁节点1
     type: ss
     server: music.desperadoj.com
     port: 30001
     cipher: aes-128-gcm
     password: desperadoj.com_free_proxy_etg0
-  - name: 🎵 解锁节点2 AppleMobile
+  - name: 🎵 解锁节点2
     type: ss
     server: music.desperadoj.com
     port: 30003
