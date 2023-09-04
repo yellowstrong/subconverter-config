@@ -20,3 +20,4 @@ DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,wintersakura.net
 DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,nicept.net
+IP-CIDR,172.64.229.116/24,no-resolve
