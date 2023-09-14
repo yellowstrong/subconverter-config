@@ -1,5 +1,4 @@
-#PT Site 域名严格匹配
-
+# PT Site 域名严格匹配
 DOMAIN,hhanclub.top
 DOMAIN,audiences.me
 DOMAIN,www.hddolby.com
@@ -16,4 +15,20 @@ DOMAIN,pt.btschool.club
 DOMAIN,hdtime.org
 DOMAIN,www.pttime.org
 DOMAIN,wintersakura.net
+DOMAIN,ptchina.org
+# PT Tracker 域名严格匹配
+DOMAIN,tracker.hhan.club
+DOMAIN,hhanclub.top
+DOMAIN,t.audiences.me
+DOMAIN,t.hddolby.com
+DOMAIN,tracker.m-team.cc
+DOMAIN,tracker.shadowflow.org
+DOMAIN,hdfans.org
+DOMAIN,ubits.club
+DOMAIN,club.hares.top
+DOMAIN,tracker.keepfrds.com
+DOMAIN,tracker.hdarea.club
+DOMAIN,pt.btschool.club
+DOMAIN,tracker.hdtime.org
+DOMAIN,www.pttime.org
 DOMAIN,ptchina.org
