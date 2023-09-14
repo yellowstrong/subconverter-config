@@ -1,0 +1,5 @@
+# 野草云
+IP-CIDR,38.147.171.55/24,no-resolve
+# hz
+DOMAIN-SUFFIX,hetzner.cloud
+DOMAIN-SUFFIX,hetzner.com
