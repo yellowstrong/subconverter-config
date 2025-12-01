@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,api2.wlai.vip
 DOMAIN-SUFFIX,api3.wlai.vip
+
+# aliyun cloud international hk
+IP-CIDR,47.243.231.123/32,no-resolve
