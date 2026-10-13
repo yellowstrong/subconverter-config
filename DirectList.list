@@ -9,14 +9,10 @@ DOMAIN-SUFFIX,xhtx.space
 DOMAIN-SUFFIX,sntp.me
 
 # isvoro
-IP-CIDR,39.109.51.12/22,no-resolve
+IP-CIDR,39.109.51.12/32,no-resolve
 
-# zouter
-IP-CIDR,193.168.200.171/22,no-resolve
-IP-CIDR,143.14.189.104/22,no-resolve
-
-# shandun
-IP-CIDR,186.244.208.152/22,no-resolve
+# norand
+IP-CIDR,77.67.18.88/32,no-resolve
 
 # other
 DOMAIN-SUFFIX,appstorrent.ru
