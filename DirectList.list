@@ -10,9 +10,7 @@ DOMAIN-SUFFIX,sntp.me
 
 # isvoro
 IP-CIDR,39.109.51.12/32,no-resolve
-
-# norand
-IP-CIDR,77.67.18.88/32,no-resolve
+IP-CIDR,38.76.200.243/32,no-resolve
 
 # other
 DOMAIN-SUFFIX,appstorrent.ru
