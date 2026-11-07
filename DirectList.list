@@ -14,10 +14,6 @@ DOMAIN-SUFFIX,wd-blue.com
 IP-CIDR,189.24.108.3/32,no-resolve
 IP-CIDR,121.54.188.89/32,no-resolve
 
-# sntp-emby
-DOMAIN-SUFFIX,array2026.cc
-DOMAIN-SUFFIX,array2026.com
-
 # other
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,ntp.org
