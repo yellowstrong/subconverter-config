@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,wd-blue.com
 
 # server
 IP-CIDR,189.24.108.3/32,no-resolve
+IP-CIDR,189.24.84.245/32,no-resolve
 IP-CIDR,121.54.188.89/32,no-resolve
 
 # other
