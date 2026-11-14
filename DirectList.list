@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,hetzner.com
 
 # myDomain
 DOMAIN-SUFFIX,xhtx.space
+DOMAIN-SUFFIX,miracle-hk.shop
 
 # sub
 DOMAIN-SUFFIX,sntp.me
@@ -11,7 +12,6 @@ IP-CIDR,172.237.7.55/32,no-resolve
 DOMAIN-SUFFIX,wd-blue.com
 
 # server
-IP-CIDR,189.24.108.3/32,no-resolve
 IP-CIDR,189.24.84.245/32,no-resolve
 IP-CIDR,121.54.188.89/32,no-resolve
 
