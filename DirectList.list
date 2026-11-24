@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,wd-blue.com
 IP-CIDR,189.24.84.245/32,no-resolve
 IP-CIDR,121.54.188.89/32,no-resolve
 IP-CIDR,23.148.28.148/32,no-resolve
+IP-CIDR,111.119.204.66/32,no-resolve
 
 # other
 DOMAIN-SUFFIX,appstorrent.ru
